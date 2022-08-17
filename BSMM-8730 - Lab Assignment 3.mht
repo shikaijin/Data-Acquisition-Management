@@ -980,7 +980,7 @@ href=3D"BSMM-8730-LabAssignmentSubmissionForm-Asg3_files/plchdr.htm">
 	mso-font-pitch:variable;
 	mso-font-signature:647 0 0 0 159 0;}
 @font-face
-	{font-family:¡• È;
+	{font-family:Èö∂‰π¶;
 	panose-1:2 1 5 9 6 1 1 1 1 1;
 	mso-font-charset:134;
 	mso-generic-font-family:modern;
@@ -994,7 +994,7 @@ href=3D"BSMM-8730-LabAssignmentSubmissionForm-Asg3_files/plchdr.htm">
 	mso-font-pitch:variable;
 	mso-font-signature:-469750017 -1073683329 9 0 511 0;}
 @font-face
-	{font-family:"\@¡• È";
+	{font-family:"\@Èö∂‰π¶";
 	mso-font-charset:134;
 	mso-generic-font-family:modern;
 	mso-font-pitch:fixed;
@@ -1037,7 +1037,7 @@ h1
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1064,7 +1064,7 @@ h1.CxSpFirst
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1091,7 +1091,7 @@ h1.CxSpMiddle
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1121,7 +1121,7 @@ h1.CxSpLast
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1149,7 +1149,7 @@ h2
 	font-family:"Franklin Gothic Book",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Book";
 	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Book";
 	mso-hansi-theme-font:minor-latin;
@@ -1178,7 +1178,7 @@ h3
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1210,7 +1210,7 @@ h4
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1241,7 +1241,7 @@ h5
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1271,7 +1271,7 @@ h6
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1301,7 +1301,7 @@ p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1331,7 +1331,7 @@ p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1364,7 +1364,7 @@ p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1440,7 +1440,7 @@ p.MsoTitle, li.MsoTitle, div.MsoTitle
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1469,7 +1469,7 @@ p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1495,7 +1495,7 @@ p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1524,7 +1524,7 @@ p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1549,7 +1549,7 @@ p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
 	font-family:"Franklin Gothic Book",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Book";
 	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:ª™Œƒø¨ÃÂ;
+	mso-fareast-font-family:ÂçéÊñáÊ•∑‰Ωì;
 	mso-fareast-theme-font:minor-fareast;
 	mso-hansi-font-family:"Franklin Gothic Book";
 	mso-hansi-theme-font:minor-latin;
@@ -1691,7 +1691,7 @@ p.MsoTocHeading, li.MsoTocHeading, div.MsoTocHeading
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1726,7 +1726,7 @@ irst
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1761,7 +1761,7 @@ pMiddle
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1798,7 +1798,7 @@ p.MsoTocHeadingCxSpLast, li.MsoTocHeadingCxSpLast, div.MsoTocHeadingCxSpLast
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1822,7 +1822,7 @@ span.TitleChar
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1839,8 +1839,8 @@ span.SubtitleChar
 	mso-style-unhide:no;
 	mso-style-locked:yes;
 	mso-style-link:Subtitle;
-	font-family:ª™Œƒø¨ÃÂ;
-	mso-fareast-font-family:ª™Œƒø¨ÃÂ;
+	font-family:ÂçéÊñáÊ•∑‰Ωì;
+	mso-fareast-font-family:ÂçéÊñáÊ•∑‰Ωì;
 	mso-fareast-theme-font:minor-fareast;
 	color:#5A5A5A;
 	mso-themecolor:text1;
@@ -1871,7 +1871,7 @@ span.Heading1Char
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1903,8 +1903,8 @@ span.Heading2Char
 	mso-style-locked:yes;
 	mso-style-link:"Heading 2";
 	mso-bidi-font-size:13.0pt;
-	font-family:¡• È;
-	mso-fareast-font-family:¡• È;
+	font-family:Èö∂‰π¶;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:major-bidi;
@@ -1947,7 +1947,7 @@ span.Heading3Char
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1972,7 +1972,7 @@ span.Heading4Char
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -1996,7 +1996,7 @@ span.Heading5Char
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -2019,7 +2019,7 @@ span.Heading6Char
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -2040,7 +2040,7 @@ span.Heading7Char
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -2063,7 +2063,7 @@ span.Heading8Char
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -2089,7 +2089,7 @@ span.Heading9Char
 	font-family:"Franklin Gothic Medium",sans-serif;
 	mso-ascii-font-family:"Franklin Gothic Medium";
 	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:¡• È;
+	mso-fareast-font-family:Èö∂‰π¶;
 	mso-fareast-theme-font:major-fareast;
 	mso-hansi-font-family:"Franklin Gothic Medium";
 	mso-hansi-theme-font:major-latin;
@@ -3609,10 +3609,10 @@ id #FEDE00 2.25pt;
   <p class=3DMsoNormal style=3D'margin-bottom:0in'><o:p>&nbsp;</o:p></p>
   <p class=3DMsoNormal style=3D'margin-bottom:0in'>As the company is a logi=
 stics
-  company, the entity°Øs trace details of business proceedings can be shipm=
+  company, the entity‚Äôs trace details of business proceedings can be shipm=
 ents.</p>
   <p class=3DMsoNormal style=3D'margin-bottom:0in'><o:p>&nbsp;</o:p></p>
-  <p class=3DMsoNormal style=3D'margin-bottom:0in'>The °∞who°± dimension co=
+  <p class=3DMsoNormal style=3D'margin-bottom:0in'>The ‚Äúwho‚Äù dimension co=
 rresponds
   to the company dimension table, and both the seller and the buyer compani=
 es
@@ -3627,21 +3627,21 @@ er
 me
   storage space. </p>
   <p class=3DMsoNormal style=3D'margin-bottom:0in'><o:p>&nbsp;</o:p></p>
-  <p class=3DMsoNormal style=3D'margin-bottom:0in'>°∞What°± dimension refer=
+  <p class=3DMsoNormal style=3D'margin-bottom:0in'>‚ÄúWhat‚Äù dimension refer=
 s to the
   cargo dimension table, where details of cargo can be stored and retrieved=
  for
-  each shipment. The °∞how°± dimension refers to the air delivery dimension=
+  each shipment. The ‚Äúhow‚Äù dimension refers to the air delivery dimension=
  table
   in which the information of the air shipper can be stored and retrieved. =
-The °∞when°±
+The ‚Äúwhen‚Äù
   dimension refers to the date dimension table that stores and retrieves
   shipping date information. The data in corresponding tables can be displa=
 yed
   in the fact table when we join the fact table with the corresponding keys=
 .</p>
   <p class=3DMsoNormal style=3D'margin-bottom:0in'><o:p>&nbsp;</o:p></p>
-  <p class=3DMsoNormal style=3D'margin-bottom:0in'>The °∞where°± dimension =
+  <p class=3DMsoNormal style=3D'margin-bottom:0in'>The ‚Äúwhere‚Äù dimension =
 is the
   location dimension table. The original location and destination for each
   shipment can be stored and retrieved in this table. Similar to company
@@ -3664,7 +3664,7 @@ eve
 s a
   transaction entity, I can use it as the fact table, which contains all ot=
 her
-  tables°Ø keys to enable joining with the corresponding dimension table(s)=
+  tables‚Äô keys to enable joining with the corresponding dimension table(s)=
 . A
   company key is defined in the fact table as a buyer company key and a sel=
 ler
@@ -3808,7 +3808,7 @@ id=3D"webarch_temp_base_tag">
 <div style=3D'mso-element:placeholder-text' id=3D5D014B08F52646FF96880B3C5C=
 1D4B87><span
 style=3D'font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:µ»œﬂ;mso-fareast-t=
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Á≠âÁ∫ø;mso-fareast-t=
 heme-font:
 minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times =
 New Roman";
