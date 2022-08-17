@@ -1,4 +1,4 @@
-# Data-Acquisition-Management-Coursework
+# Data-Acquisition-Management
 
 Lab Assignment 1: Data Preparation [[PDF](https://drive.google.com/file/d/1wYmJ6hu69nc2fc1wi2ZDVgMMG4CtgGNE/view?usp=sharing)]
 
