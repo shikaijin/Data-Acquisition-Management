@@ -1,4 +1,4 @@
-# Data-Acquisition-Management
+# Data-Acquisition-Management ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shikaijin/Data-Acquisition-Management.visitor-badge)
 
 Lab Assignment 1: Data Preparation [[PDF](https://drive.google.com/file/d/1wYmJ6hu69nc2fc1wi2ZDVgMMG4CtgGNE/view?usp=sharing)]
 
